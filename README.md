@@ -1,0 +1,2 @@
+# tamstat
+Taming Statistics
